@@ -2,10 +2,6 @@
 Investigation -- PowerShell Script Execution
 
 
-SOC Investigation #11 — PowerShell Script Execution
-
-Overview
-
 Investigated a Wazuh alert triggered by PowerShell executing a .ps1 script from a user-accessible location.
 
 The investigation was performed in a controlled Windows 11 SOC lab using Wazuh + Sysmon.
@@ -77,7 +73,6 @@ RULE LEVEL: 6
 PARENT PROESS ID: 6984
 
 
-  
 
 SOC Analyst Takeaway
 
